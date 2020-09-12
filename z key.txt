@@ -1,0 +1,11 @@
+c program compile using (gcc main.c)
+
+c++ program compile using (g++ main.cpp)
+
+
+ctrl+j
+ctrl+shipt+b
+
+
+gcc faltu.c -o faltu
+g++ faltu.cpp -o faltu
